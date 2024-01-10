@@ -15,6 +15,7 @@ nano internsctl and write below code
 then to give permission write chmod +x internsctl
 
 ![image](https://github.com/varnit836/xenon_round/assets/53986191/13b4ae9c-8c37-44a8-9fbd-63d6aa0a7659)
+
 now the custom commands is created.
 
 Output:-
@@ -29,7 +30,9 @@ Solution-
 Custom command already created in step 2
 
 
-Output-![image](https://github.com/varnit836/xenon_round/assets/53986191/43c9edd7-dbee-4ef0-9f08-9fdfb5d11071)
+Output-
+
+![image](https://github.com/varnit836/xenon_round/assets/53986191/43c9edd7-dbee-4ef0-9f08-9fdfb5d11071)
 
 
 Section B
@@ -47,6 +50,7 @@ Inside root write nano internsctl cpu getinfo and write lscpu in it
 then to give permission write chmod +x internsctl cpu getinfo
 
 Output - 
+
 ![VirtualBox_Ubuntu_10_01_2024_16_25_53](https://github.com/varnit836/xenon_round/assets/53986191/d40866ee-687e-4450-abc8-d04d47145c94)
 
 
@@ -63,6 +67,7 @@ Inside root write nano internsctl memory getinfo and write free in it
 then to give permission write chmod +x internsctl memory getinfo.
 
 Output :-
+
 ![image](https://github.com/varnit836/xenon_round/assets/53986191/daa6ff70-703a-4230-9969-46a0cba32ba2)
 
 
