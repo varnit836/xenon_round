@@ -5,9 +5,12 @@ cases via examples. Similarly if I execute internsctl --help it should provide m
 necessary help
 
 Solution - To do this i have go to to root directory using below command
+
 ![image](https://github.com/varnit836/xenon_round/assets/53986191/94c1ed8e-71cc-4247-b2ab-4fb5ebcf82f0) 
+
 Then i have used nano command to create custom command, to create internsctl command write 
 nano internsctl and write below code
+
 ![image](https://github.com/varnit836/xenon_round/assets/53986191/6afc0eda-4f3e-40f9-a6cb-503983f8afda)
 then to give permission write chmod +x internsctl
 
@@ -38,7 +41,9 @@ $ internsctl cpu getinfo
 Solution:-
 
 Inside root write nano internsctl cpu getinfo and write lscpu in it
+
 ![image](https://github.com/varnit836/xenon_round/assets/53986191/01b6c851-1ff6-4872-9bf8-7eaceef50eea)
+
 then to give permission write chmod +x internsctl cpu getinfo
 
 Output - 
@@ -52,7 +57,9 @@ $ internsctl memory getinfo
 
 Solution - 
 Inside root write nano internsctl memory getinfo and write free in it
+
 ![image](https://github.com/varnit836/xenon_round/assets/53986191/0a47fd5f-585d-4fcc-aa6c-4218b8378b80)
+
 then to give permission write chmod +x internsctl memory getinfo.
 
 Output :-
@@ -70,6 +77,7 @@ $ internsctl user list
 Solution- 
 
 Inside root write nano internsctl user list and write below code in it
+
 ![image](https://github.com/varnit836/xenon_round/assets/53986191/cd57d39a-5c9d-4a47-bfe8-9b743337b8e1)
 
 then to give permission write chmod +x internsctl user list.
